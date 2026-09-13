@@ -242,7 +242,7 @@ Salary-Prediction-Polynomial-Regression/
 Clone the repository:
 
 ```bash
-git clone https://github.com/AtifMazhar-01/Salary_Prediction
+git clone https://github.com/AtifMazhar-01/Salary_Prediction.git
 cd Salary-Prediction-Polynomial-Regression
 ```
 
